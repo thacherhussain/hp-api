@@ -66,15 +66,29 @@ app.get('/api/characters/:id', function (req, res) {
   fs.readFile(CHARACTERS_JSON, function (err, data) {
     if (err) process.exit(1)
     const json = JSON.parse(data)
-    character = {}
-    for (character of json) {
-      if (character.id === req.params.id) {
-        character = character
-      }
+    const id = req.params.id
+
+    function getSingleCharacter(id) {
+      return json.filter(function (json) {
+        return json.id == id
+      })
     }
 
+    const singleCharacter = getSingleCharacter(id)
+
+    console.log(singleCharacter)
+
+    // singleCharacter = [{ id: id }]
+    // const findCharacter = json.find((character) => character.id === id)
+    // console.log(findCharacter)
+    // for (character of json) {
+    //   if (character.id === req.params.id) {
+    //     singleCharacter.push(character)
+    //   }
+    // }
+
     res.setHeader('Access-Control-Allow-Origin', '*')
-    res.json(character)
+    res.json(singleCharacter)
   })
 })
 
