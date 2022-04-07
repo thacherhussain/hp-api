@@ -1,6 +1,5 @@
 [
   {
-    "id": 0,
     "name": "Harry Potter",
     "alternate_names": [],
     "species": "human",
@@ -26,7 +25,6 @@
     "image": "http://hp-api.herokuapp.com/images/harry.jpg"
   },
   {
-    "id": 1,
     "name": "Hermione Granger",
     "alternate_names": [],
     "species": "human",
@@ -52,11 +50,8 @@
     "image": "http://hp-api.herokuapp.com/images/hermione.jpeg"
   },
   {
-    "id": 2,
     "name": "Ron Weasley",
-    "alternate_names": [
-      "Dragomir Despard"
-    ],
+    "alternate_names": ["Dragomir Despard"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -80,7 +75,6 @@
     "image": "http://hp-api.herokuapp.com/images/ron.jpg"
   },
   {
-    "id": 3,
     "name": "Draco Malfoy",
     "alternate_names": [],
     "species": "human",
@@ -106,7 +100,6 @@
     "image": "http://hp-api.herokuapp.com/images/draco.jpg"
   },
   {
-    "id": 4,
     "name": "Minerva McGonagall",
     "alternate_names": [],
     "species": "human",
@@ -132,7 +125,6 @@
     "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
   },
   {
-    "id": 5,
     "name": "Cedric Diggory",
     "alternate_names": [],
     "species": "human",
@@ -158,7 +150,6 @@
     "image": "http://hp-api.herokuapp.com/images/cedric.png"
   },
   {
-    "id": 6,
     "name": "Cho Chang",
     "alternate_names": [],
     "species": "human",
@@ -184,11 +175,8 @@
     "image": "http://hp-api.herokuapp.com/images/cho.jpg"
   },
   {
-    "id": 7,
     "name": "Severus Snape",
-    "alternate_names": [
-      "Half-Blood Prince"
-    ],
+    "alternate_names": ["Half-Blood Prince"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -212,7 +200,6 @@
     "image": "http://hp-api.herokuapp.com/images/snape.jpg"
   },
   {
-    "id": 8,
     "name": "Rubeus Hagrid",
     "alternate_names": [],
     "species": "half-giant",
@@ -238,7 +225,6 @@
     "image": "http://hp-api.herokuapp.com/images/hagrid.png"
   },
   {
-    "id": 9,
     "name": "Neville Longbottom",
     "alternate_names": [],
     "species": "human",
@@ -264,7 +250,6 @@
     "image": "http://hp-api.herokuapp.com/images/neville.jpg"
   },
   {
-    "id": 10,
     "name": "Luna Lovegood",
     "alternate_names": [],
     "species": "human",
@@ -290,7 +275,6 @@
     "image": "http://hp-api.herokuapp.com/images/luna.jpg"
   },
   {
-    "id": 11,
     "name": "Ginny Weasley",
     "alternate_names": [],
     "species": "human",
@@ -316,12 +300,8 @@
     "image": "http://hp-api.herokuapp.com/images/ginny.jpg"
   },
   {
-    "id": 12,
     "name": "Sirius Black",
-    "alternate_names": [
-      "Padfoot",
-      "Snuffles"
-    ],
+    "alternate_names": ["Padfoot", "Snuffles"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -340,21 +320,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Gary Oldman",
-    "alternate_actors": [
-      "James Walters",
-      "Rohan Gotobed"
-    ],
+    "alternate_actors": ["James Walters", "Rohan Gotobed"],
     "alive": false,
     "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
   },
   {
-    "id": 13,
     "name": "Remus Lupin",
-    "alternate_names": [
-      "Professor Lupin",
-      "Moony",
-      "Remus John Lupin"
-    ],
+    "alternate_names": ["Professor Lupin", "Moony", "Remus John Lupin"],
     "species": "werewolf",
     "gender": "male",
     "house": "Gryffindor",
@@ -378,7 +350,6 @@
     "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
   },
   {
-    "id": 14,
     "name": "Arthur Weasley",
     "alternate_names": [],
     "species": "human",
@@ -404,11 +375,8 @@
     "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
   },
   {
-    "id": 15,
     "name": "Bellatrix Lestrange",
-    "alternate_names": [
-      "Bella"
-    ],
+    "alternate_names": ["Bella"],
     "species": "human",
     "gender": "female",
     "house": "Slytherin",
@@ -432,11 +400,8 @@
     "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
   },
   {
-    "id": 16,
     "name": "Lord Voldemort",
-    "alternate_names": [
-      "Tom Marvolo Riddle"
-    ],
+    "alternate_names": ["Tom Marvolo Riddle"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -460,7 +425,6 @@
     "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
   },
   {
-    "id": 17,
     "name": "Horace Slughorn",
     "alternate_names": [],
     "species": "human",
@@ -486,7 +450,6 @@
     "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
   },
   {
-    "id": 18,
     "name": "Kingsley Shacklebolt",
     "alternate_names": [],
     "species": "human",
@@ -512,7 +475,6 @@
     "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
   },
   {
-    "id": 19,
     "name": "Dolores Umbridge",
     "alternate_names": [],
     "species": "human",
@@ -538,7 +500,6 @@
     "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
   },
   {
-    "id": 20,
     "name": "Lucius Malfoy",
     "alternate_names": [],
     "species": "human",
@@ -564,7 +525,6 @@
     "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
   },
   {
-    "id": 21,
     "name": "Vincent Crabbe",
     "alternate_names": [],
     "species": "human",
@@ -590,7 +550,6 @@
     "image": "http://hp-api.herokuapp.com/images/crabbe.jpg"
   },
   {
-    "id": 22,
     "name": "Gregory Goyle",
     "alternate_names": [],
     "species": "human",
@@ -616,7 +575,6 @@
     "image": "http://hp-api.herokuapp.com/images/goyle.jpg"
   },
   {
-    "id": 23,
     "name": "Mrs Norris",
     "alternate_names": [],
     "species": "cat",
@@ -642,7 +600,6 @@
     "image": "http://hp-api.herokuapp.com/images/norris.JPG"
   },
   {
-    "id": 24,
     "name": "Argus Filch",
     "alternate_names": [],
     "species": "human",
@@ -668,7 +625,6 @@
     "image": "http://hp-api.herokuapp.com/images/filch.jpg"
   },
   {
-    "id": 25,
     "name": "Vernon Dursley",
     "alternate_names": [],
     "species": "human",
@@ -694,7 +650,6 @@
     "image": ""
   },
   {
-    "id": 26,
     "name": "Petunia Dursley",
     "alternate_names": [],
     "species": "human",
@@ -720,7 +675,6 @@
     "image": ""
   },
   {
-    "id": 27,
     "name": "Dudley Dursley",
     "alternate_names": [],
     "species": "human",
@@ -746,7 +700,6 @@
     "image": ""
   },
   {
-    "id": 28,
     "name": "Lily Potter",
     "alternate_names": [],
     "species": "human",
@@ -772,7 +725,6 @@
     "image": ""
   },
   {
-    "id": 29,
     "name": "James Potter",
     "alternate_names": [],
     "species": "human",
@@ -798,7 +750,6 @@
     "image": ""
   },
   {
-    "id": 30,
     "name": "Albus Dumbledore",
     "alternate_names": [],
     "species": "human",
@@ -819,18 +770,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": true,
     "actor": "Richard Harris",
-    "alternate_actors": [
-      "Michael Gambon"
-    ],
+    "alternate_actors": ["Michael Gambon"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 31,
     "name": "Madam Pomfrey",
-    "alternate_names": [
-      "Poppy Pomfrey"
-    ],
+    "alternate_names": ["Poppy Pomfrey"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -854,11 +800,8 @@
     "image": ""
   },
   {
-    "id": 32,
     "name": "Mrs Figg",
-    "alternate_names": [
-      "Arabella Doreen Figg"
-    ],
+    "alternate_names": ["Arabella Doreen Figg"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -882,7 +825,6 @@
     "image": ""
   },
   {
-    "id": 33,
     "name": "Marge Dursley",
     "alternate_names": [
       "Marjorie Eileen Dursley",
@@ -913,7 +855,6 @@
     "image": ""
   },
   {
-    "id": 34,
     "name": "Yvonne",
     "alternate_names": [],
     "species": "human",
@@ -939,7 +880,6 @@
     "image": ""
   },
   {
-    "id": 35,
     "name": "Piers Polkiss",
     "alternate_names": [],
     "species": "human",
@@ -965,7 +905,6 @@
     "image": ""
   },
   {
-    "id": 36,
     "name": "Dennis",
     "alternate_names": [],
     "species": "human",
@@ -991,7 +930,6 @@
     "image": ""
   },
   {
-    "id": 37,
     "name": "Malcolm",
     "alternate_names": [],
     "species": "human",
@@ -1017,7 +955,6 @@
     "image": ""
   },
   {
-    "id": 38,
     "name": "Gordon",
     "alternate_names": [],
     "species": "human",
@@ -1043,7 +980,6 @@
     "image": ""
   },
   {
-    "id": 39,
     "name": "Miranda Gaushawk",
     "alternate_names": [],
     "species": "human",
@@ -1069,7 +1005,6 @@
     "image": ""
   },
   {
-    "id": 40,
     "name": "Bathilda Bagshot",
     "alternate_names": [],
     "species": "human",
@@ -1095,7 +1030,6 @@
     "image": ""
   },
   {
-    "id": 41,
     "name": "Adalbert Waffling",
     "alternate_names": [],
     "species": "human",
@@ -1121,7 +1055,6 @@
     "image": ""
   },
   {
-    "id": 42,
     "name": "Emeric Switch",
     "alternate_names": [],
     "species": "human",
@@ -1147,11 +1080,8 @@
     "image": ""
   },
   {
-    "id": 43,
     "name": "Phyllida Spore",
-    "alternate_names": [
-      "Dame Phyllida Spore"
-    ],
+    "alternate_names": ["Dame Phyllida Spore"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -1175,7 +1105,6 @@
     "image": ""
   },
   {
-    "id": 44,
     "name": "Arsenius Jigger",
     "alternate_names": [],
     "species": "human",
@@ -1201,11 +1130,8 @@
     "image": ""
   },
   {
-    "id": 45,
     "name": "Newt Scamander",
-    "alternate_names": [
-      "Newton Artemis Fido Scamander"
-    ],
+    "alternate_names": ["Newton Artemis Fido Scamander"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1224,15 +1150,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Eddie Redmayne",
-    "alternate_actors": [
-      "Joshua Shea",
-      "Callum Turner"
-    ],
+    "alternate_actors": ["Joshua Shea", "Callum Turner"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 46,
     "name": "Quentin Trimble",
     "alternate_names": [],
     "species": "human",
@@ -1258,7 +1180,6 @@
     "image": ""
   },
   {
-    "id": 47,
     "name": "Tom",
     "alternate_names": [],
     "species": "human",
@@ -1279,14 +1200,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Derek Deadman",
-    "alternate_actors": [
-      "Jim Tavare"
-    ],
+    "alternate_actors": ["Jim Tavare"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 48,
     "name": "Doris Crockford",
     "alternate_names": [],
     "species": "human",
@@ -1312,11 +1230,8 @@
     "image": ""
   },
   {
-    "id": 49,
     "name": "Quirinus Quirrel",
-    "alternate_names": [
-      "Professor Quirrel"
-    ],
+    "alternate_names": ["Professor Quirrel"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -1340,7 +1255,6 @@
     "image": ""
   },
   {
-    "id": 50,
     "name": "Griphook",
     "alternate_names": [],
     "species": "goblin",
@@ -1361,14 +1275,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Verne Troyer",
-    "alternate_actors": [
-      "Warwick Davis"
-    ],
+    "alternate_actors": ["Warwick Davis"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 51,
     "name": "Madam Malkin",
     "alternate_names": [],
     "species": "human",
@@ -1394,7 +1305,6 @@
     "image": ""
   },
   {
-    "id": 52,
     "name": "Vindictus Viridian",
     "alternate_names": [],
     "species": "human",
@@ -1420,7 +1330,6 @@
     "image": ""
   },
   {
-    "id": 53,
     "name": "Garrick Ollivander",
     "alternate_names": [],
     "species": "human",
@@ -1446,7 +1355,6 @@
     "image": ""
   },
   {
-    "id": 54,
     "name": "Hedwig",
     "alternate_names": [],
     "species": "owl",
@@ -1480,12 +1388,8 @@
     "image": ""
   },
   {
-    "id": 55,
     "name": "Molly Weasley",
-    "alternate_names": [
-      "Molly Prewett",
-      "Mollywabbles"
-    ],
+    "alternate_names": ["Molly Prewett", "Mollywabbles"],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -1509,13 +1413,8 @@
     "image": ""
   },
   {
-    "id": 56,
     "name": "Percy Weasley",
-    "alternate_names": [
-      "Perce",
-      "Percy Ignatius Weasley",
-      "Weatherby"
-    ],
+    "alternate_names": ["Perce", "Percy Ignatius Weasley", "Weatherby"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1539,7 +1438,6 @@
     "image": ""
   },
   {
-    "id": 57,
     "name": "Fred Weasley",
     "alternate_names": [],
     "species": "human",
@@ -1565,7 +1463,6 @@
     "image": ""
   },
   {
-    "id": 58,
     "name": "George Weasley",
     "alternate_names": [],
     "species": "human",
@@ -1591,7 +1488,6 @@
     "image": ""
   },
   {
-    "id": 59,
     "name": "Lee Jordan",
     "alternate_names": [],
     "species": "human",
@@ -1617,11 +1513,8 @@
     "image": ""
   },
   {
-    "id": 60,
     "name": "Bill Weasley",
-    "alternate_names": [
-      "William Arthur Weasley"
-    ],
+    "alternate_names": ["William Arthur Weasley"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1640,18 +1533,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Richard Fish",
-    "alternate_actors": [
-      "Domhnall Gleeson"
-    ],
+    "alternate_actors": ["Domhnall Gleeson"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 61,
     "name": "Charlie Weasley",
-    "alternate_names": [
-      "Charles Weasley"
-    ],
+    "alternate_names": ["Charles Weasley"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1675,7 +1563,6 @@
     "image": ""
   },
   {
-    "id": 62,
     "name": "Fat Friar",
     "alternate_names": [],
     "species": "ghost",
@@ -1701,7 +1588,6 @@
     "image": ""
   },
   {
-    "id": 63,
     "name": "Peeves",
     "alternate_names": [],
     "species": "poltergeist",
@@ -1727,7 +1613,6 @@
     "image": ""
   },
   {
-    "id": 64,
     "name": "Hannah Abbott",
     "alternate_names": [],
     "species": "human",
@@ -1748,14 +1633,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Charlotte Skeoch",
-    "alternate_actors": [
-      "Louisa Warren"
-    ],
+    "alternate_actors": ["Louisa Warren"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 65,
     "name": "Susan Bones",
     "alternate_names": [],
     "species": "human",
@@ -1776,14 +1658,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Eleanor Columbus",
-    "alternate_actors": [
-      "Emma Jayne-Corboz"
-    ],
+    "alternate_actors": ["Emma Jayne-Corboz"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 66,
     "name": "Terry Boot",
     "alternate_names": [],
     "species": "human",
@@ -1809,7 +1688,6 @@
     "image": ""
   },
   {
-    "id": 67,
     "name": "Mandy Brocklehurst",
     "alternate_names": [],
     "species": "human",
@@ -1835,7 +1713,6 @@
     "image": ""
   },
   {
-    "id": 68,
     "name": "Lavender Brown",
     "alternate_names": [],
     "species": "human",
@@ -1856,15 +1733,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Kathleen Cauley",
-    "alternate_actors": [
-      "Jennifer Smith",
-      "Jessie Cave"
-    ],
+    "alternate_actors": ["Jennifer Smith", "Jessie Cave"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 69,
     "name": "Millicent Bulstrode",
     "alternate_names": [],
     "species": "human",
@@ -1890,7 +1763,6 @@
     "image": ""
   },
   {
-    "id": 70,
     "name": "Justin Finch-Fletchley",
     "alternate_names": [],
     "species": "human",
@@ -1916,11 +1788,8 @@
     "image": ""
   },
   {
-    "id": 71,
     "name": "Seamus Finnegan",
-    "alternate_names": [
-      "O'Flaherty"
-    ],
+    "alternate_names": ["O'Flaherty"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -1944,7 +1813,6 @@
     "image": ""
   },
   {
-    "id": 72,
     "name": "Morag MacDougal",
     "alternate_names": [],
     "species": "human",
@@ -1970,7 +1838,6 @@
     "image": ""
   },
   {
-    "id": 73,
     "name": "Lily Moon",
     "alternate_names": [],
     "species": "human",
@@ -1996,7 +1863,6 @@
     "image": ""
   },
   {
-    "id": 74,
     "name": "Theodore Nott",
     "alternate_names": [],
     "species": "human",
@@ -2022,7 +1888,6 @@
     "image": ""
   },
   {
-    "id": 75,
     "name": "Pansy Parkinson",
     "alternate_names": [],
     "species": "human",
@@ -2043,15 +1908,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Genevieve Gaunt",
-    "alternate_actors": [
-      "Lauren Shotton",
-      "Scarlett Byrne"
-    ],
+    "alternate_actors": ["Lauren Shotton", "Scarlett Byrne"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 76,
     "name": "Parvati Patil",
     "alternate_names": [],
     "species": "human",
@@ -2072,14 +1933,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Sitara Shah",
-    "alternate_actors": [
-      "Shefali Chowdhury"
-    ],
+    "alternate_actors": ["Shefali Chowdhury"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 77,
     "name": "Padma Patil",
     "alternate_names": [],
     "species": "human",
@@ -2100,14 +1958,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Sharon Sandhu",
-    "alternate_actors": [
-      "Afshan Azad"
-    ],
+    "alternate_actors": ["Afshan Azad"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 78,
     "name": "Sally-Anne Perks",
     "alternate_names": [],
     "species": "human",
@@ -2133,7 +1988,6 @@
     "image": ""
   },
   {
-    "id": 79,
     "name": "Lisa Turpin",
     "alternate_names": [],
     "species": "human",
@@ -2159,7 +2013,6 @@
     "image": ""
   },
   {
-    "id": 80,
     "name": "Blaise Zabini",
     "alternate_names": [],
     "species": "human",
@@ -2185,7 +2038,6 @@
     "image": ""
   },
   {
-    "id": 81,
     "name": "Nearly Headless Nick",
     "alternate_names": [
       "Sir Nicholas de Mimsy-Porpington",
@@ -2215,7 +2067,6 @@
     "image": ""
   },
   {
-    "id": 82,
     "name": "Bloody Baron",
     "alternate_names": [],
     "species": "ghost",
@@ -2241,7 +2092,6 @@
     "image": ""
   },
   {
-    "id": 83,
     "name": "Fat Lady",
     "alternate_names": [],
     "species": "human",
@@ -2262,18 +2112,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Elizabeth Spriggs",
-    "alternate_actors": [
-      "Dawn French"
-    ],
+    "alternate_actors": ["Dawn French"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 84,
     "name": "Pomona Sprout",
-    "alternate_names": [
-      "Professor Sprout"
-    ],
+    "alternate_names": ["Professor Sprout"],
     "species": "human",
     "gender": "female",
     "house": "Hufflepuff",
@@ -2297,11 +2142,8 @@
     "image": ""
   },
   {
-    "id": 85,
     "name": "Cuthbert Binns",
-    "alternate_names": [
-      "Professor Binns"
-    ],
+    "alternate_names": ["Professor Binns"],
     "species": "ghost",
     "gender": "male",
     "house": "",
@@ -2325,7 +2167,6 @@
     "image": ""
   },
   {
-    "id": 86,
     "name": "Emeric the Evil",
     "alternate_names": [],
     "species": "human",
@@ -2351,7 +2192,6 @@
     "image": ""
   },
   {
-    "id": 87,
     "name": "Uric the Oddball",
     "alternate_names": [],
     "species": "human",
@@ -2377,11 +2217,8 @@
     "image": ""
   },
   {
-    "id": 88,
     "name": "Filius Flitwick",
-    "alternate_names": [
-      "Professor Flitwick"
-    ],
+    "alternate_names": ["Professor Flitwick"],
     "species": "human",
     "gender": "male",
     "house": "Ravenclaw",
@@ -2405,11 +2242,8 @@
     "image": ""
   },
   {
-    "id": 89,
     "name": "Madam Hooch",
-    "alternate_names": [
-      "Rolanda Hooch"
-    ],
+    "alternate_names": ["Rolanda Hooch"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -2433,7 +2267,6 @@
     "image": ""
   },
   {
-    "id": 90,
     "name": "Oliver Wood",
     "alternate_names": [],
     "species": "human",
@@ -2459,7 +2292,6 @@
     "image": ""
   },
   {
-    "id": 91,
     "name": "Gregory the Smarmy",
     "alternate_names": [],
     "species": "human",
@@ -2485,7 +2317,6 @@
     "image": ""
   },
   {
-    "id": 92,
     "name": "Wizard Baruffio",
     "alternate_names": [],
     "species": "human",
@@ -2511,7 +2342,6 @@
     "image": ""
   },
   {
-    "id": 93,
     "name": "Angelina Johnson",
     "alternate_names": [],
     "species": "human",
@@ -2532,14 +2362,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Danielle Tabor",
-    "alternate_actors": [
-      "Tiana Benjamin"
-    ],
+    "alternate_actors": ["Tiana Benjamin"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 94,
     "name": "Marcus Flint",
     "alternate_names": [],
     "species": "human",
@@ -2565,7 +2392,6 @@
     "image": ""
   },
   {
-    "id": 95,
     "name": "Alicia Spinet",
     "alternate_names": [],
     "species": "human",
@@ -2586,14 +2412,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Leilah Sutherland",
-    "alternate_actors": [
-      "Rochelle Douglas"
-    ],
+    "alternate_actors": ["Rochelle Douglas"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 96,
     "name": "Katie Bell",
     "alternate_names": [],
     "species": "human",
@@ -2614,14 +2437,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "Emily Dale",
-    "alternate_actors": [
-      "Georgina Leonidas"
-    ],
+    "alternate_actors": ["Georgina Leonidas"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 97,
     "name": "Adrian Pucey",
     "alternate_names": [],
     "species": "human",
@@ -2647,7 +2467,6 @@
     "image": ""
   },
   {
-    "id": 98,
     "name": "Miles Bletchley",
     "alternate_names": [],
     "species": "human",
@@ -2668,14 +2487,11 @@
     "hogwartsStudent": true,
     "hogwartsStaff": false,
     "actor": "David Churchyard",
-    "alternate_actors": [
-      "Amy Puglia"
-    ],
+    "alternate_actors": ["Amy Puglia"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 99,
     "name": "Terrence Higgs",
     "alternate_names": [],
     "species": "human",
@@ -2701,7 +2517,6 @@
     "image": ""
   },
   {
-    "id": 100,
     "name": "Fluffy",
     "alternate_names": [],
     "species": "three-headed dog",
@@ -2727,7 +2542,6 @@
     "image": ""
   },
   {
-    "id": 101,
     "name": "Nicolas Flamel",
     "alternate_names": [],
     "species": "human",
@@ -2753,7 +2567,6 @@
     "image": ""
   },
   {
-    "id": 102,
     "name": "Gellert Grindelwald",
     "alternate_names": [],
     "species": "human",
@@ -2774,16 +2587,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Jamie Campbell Bower",
-    "alternate_actors": [
-      "Michael Byrne",
-      "Johnny Depp",
-      "Mads Mikkelsen"
-    ],
+    "alternate_actors": ["Michael Byrne", "Johnny Depp", "Mads Mikkelsen"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 103,
     "name": "Norberta",
     "alternate_names": [],
     "species": "dragon",
@@ -2809,7 +2617,6 @@
     "image": ""
   },
   {
-    "id": 104,
     "name": "Ronan",
     "alternate_names": [],
     "species": "centaur",
@@ -2835,7 +2642,6 @@
     "image": ""
   },
   {
-    "id": 105,
     "name": "Bane",
     "alternate_names": [],
     "species": "centaur",
@@ -2856,18 +2662,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Jason Piper",
-    "alternate_actors": [
-      "Nuno Silva"
-    ],
+    "alternate_actors": ["Nuno Silva"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 106,
     "name": "Firenze",
-    "alternate_names": [
-      "Professor Firenze"
-    ],
+    "alternate_names": ["Professor Firenze"],
     "species": "centaur",
     "gender": "male",
     "house": "",
@@ -2891,7 +2692,6 @@
     "image": ""
   },
   {
-    "id": 107,
     "name": "Elfrick the Eager",
     "alternate_names": [],
     "species": "goblin",
@@ -2917,7 +2717,6 @@
     "image": ""
   },
   {
-    "id": 108,
     "name": "Perenelle Flamel",
     "alternate_names": [],
     "species": "human",
@@ -2943,7 +2742,6 @@
     "image": ""
   },
   {
-    "id": 109,
     "name": "Bertie Bott",
     "alternate_names": [],
     "species": "human",
@@ -2969,7 +2767,6 @@
     "image": ""
   },
   {
-    "id": 110,
     "name": "Dobby",
     "alternate_names": [],
     "species": "house-elf",
@@ -2995,7 +2792,6 @@
     "image": ""
   },
   {
-    "id": 111,
     "name": "Mr Mason",
     "alternate_names": [],
     "species": "human",
@@ -3021,7 +2817,6 @@
     "image": ""
   },
   {
-    "id": 112,
     "name": "Mrs Mason",
     "alternate_names": [],
     "species": "human",
@@ -3047,7 +2842,6 @@
     "image": ""
   },
   {
-    "id": 113,
     "name": "Perkins",
     "alternate_names": [],
     "species": "human",
@@ -3073,7 +2867,6 @@
     "image": ""
   },
   {
-    "id": 114,
     "name": "Celestina Warbeck",
     "alternate_names": [],
     "species": "human",
@@ -3099,11 +2892,8 @@
     "image": ""
   },
   {
-    "id": 115,
     "name": "Gilderoy Lockhart",
-    "alternate_names": [
-      "Professor Lockhart"
-    ],
+    "alternate_names": ["Professor Lockhart"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3127,11 +2917,8 @@
     "image": ""
   },
   {
-    "id": 116,
     "name": "Mundungus Fletcher",
-    "alternate_names": [
-      "Dung"
-    ],
+    "alternate_names": ["Dung"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3155,7 +2942,6 @@
     "image": ""
   },
   {
-    "id": 117,
     "name": "Mr Borgin",
     "alternate_names": [],
     "species": "human",
@@ -3181,11 +2967,8 @@
     "image": ""
   },
   {
-    "id": 118,
     "name": "Mr Granger",
-    "alternate_names": [
-      "Wendell Wilkins"
-    ],
+    "alternate_names": ["Wendell Wilkins"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3204,18 +2987,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Tom Knight",
-    "alternate_actors": [
-      "Ian Kelly"
-    ],
+    "alternate_actors": ["Ian Kelly"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 119,
     "name": "Mrs Granger",
-    "alternate_names": [
-      "Monica Wilkins"
-    ],
+    "alternate_names": ["Monica Wilkins"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -3234,14 +3012,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Heather Bleasdale",
-    "alternate_actors": [
-      "Michelle Fairley"
-    ],
+    "alternate_actors": ["Michelle Fairley"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 120,
     "name": "Dr Filibuster",
     "alternate_names": [],
     "species": "human",
@@ -3267,7 +3042,6 @@
     "image": ""
   },
   {
-    "id": 121,
     "name": "Colin Creevey",
     "alternate_names": [],
     "species": "human",
@@ -3293,7 +3067,6 @@
     "image": ""
   },
   {
-    "id": 122,
     "name": "Gladys Gudgeon",
     "alternate_names": [],
     "species": "human",
@@ -3319,7 +3092,6 @@
     "image": ""
   },
   {
-    "id": 123,
     "name": "Veronica Smethley",
     "alternate_names": [],
     "species": "human",
@@ -3345,11 +3117,8 @@
     "image": ""
   },
   {
-    "id": 124,
     "name": "Patrick Delaney-Podmore",
-    "alternate_names": [
-      "Sir Patrick Delaney-Podmore"
-    ],
+    "alternate_names": ["Sir Patrick Delaney-Podmore"],
     "species": "ghost",
     "gender": "male",
     "house": "",
@@ -3373,7 +3142,6 @@
     "image": ""
   },
   {
-    "id": 125,
     "name": "Z. Nettles",
     "alternate_names": [],
     "species": "human",
@@ -3399,11 +3167,8 @@
     "image": ""
   },
   {
-    "id": 126,
     "name": "D.J. Prod",
-    "alternate_names": [
-      "Demetrius J. Prod"
-    ],
+    "alternate_names": ["Demetrius J. Prod"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3427,7 +3192,6 @@
     "image": ""
   },
   {
-    "id": 127,
     "name": "Elsie Prod",
     "alternate_names": [],
     "species": "human",
@@ -3453,11 +3217,8 @@
     "image": ""
   },
   {
-    "id": 128,
     "name": "Moaning Myrtle",
-    "alternate_names": [
-      "Myrtle Elizabeth Warren"
-    ],
+    "alternate_names": ["Myrtle Elizabeth Warren"],
     "species": "ghost",
     "gender": "female",
     "house": "Ravenclaw",
@@ -3481,7 +3242,6 @@
     "image": ""
   },
   {
-    "id": 129,
     "name": "Godric Gryffindor",
     "alternate_names": [],
     "species": "human",
@@ -3507,7 +3267,6 @@
     "image": ""
   },
   {
-    "id": 130,
     "name": "Rowena Ravenclaw",
     "alternate_names": [],
     "species": "human",
@@ -3533,7 +3292,6 @@
     "image": ""
   },
   {
-    "id": 131,
     "name": "Helga Hufflepuff",
     "alternate_names": [],
     "species": "human",
@@ -3559,7 +3317,6 @@
     "image": ""
   },
   {
-    "id": 132,
     "name": "Salazar Slytherin",
     "alternate_names": [],
     "species": "human",
@@ -3585,11 +3342,8 @@
     "image": ""
   },
   {
-    "id": 133,
     "name": "Madame Pince",
-    "alternate_names": [
-      "Irma Pince"
-    ],
+    "alternate_names": ["Irma Pince"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -3613,7 +3367,6 @@
     "image": ""
   },
   {
-    "id": 134,
     "name": "Milicent Bullstroude",
     "alternate_names": [],
     "species": "human",
@@ -3639,11 +3392,8 @@
     "image": ""
   },
   {
-    "id": 135,
     "name": "Ernie Macmillan",
-    "alternate_names": [
-      "Ernest Macmillan"
-    ],
+    "alternate_names": ["Ernest Macmillan"],
     "species": "human",
     "gender": "male",
     "house": "Hufflepuff",
@@ -3667,11 +3417,8 @@
     "image": ""
   },
   {
-    "id": 136,
     "name": "Armando Dippet",
-    "alternate_names": [
-      "Professor Dippet"
-    ],
+    "alternate_names": ["Professor Dippet"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3695,11 +3442,8 @@
     "image": ""
   },
   {
-    "id": 137,
     "name": "Penelope Clearwater",
-    "alternate_names": [
-      "Penny"
-    ],
+    "alternate_names": ["Penny"],
     "species": "human",
     "gender": "female",
     "house": "Ravenclaw",
@@ -3723,11 +3467,8 @@
     "image": ""
   },
   {
-    "id": 138,
     "name": "Cornelius Fudge",
-    "alternate_names": [
-      "Minister Cornelius Oswald Fudge"
-    ],
+    "alternate_names": ["Minister Cornelius Oswald Fudge"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3751,7 +3492,6 @@
     "image": ""
   },
   {
-    "id": 139,
     "name": "Aragog",
     "alternate_names": [],
     "species": "acromantula",
@@ -3777,7 +3517,6 @@
     "image": ""
   },
   {
-    "id": 140,
     "name": "Mosag",
     "alternate_names": [],
     "species": "acromantula",
@@ -3803,11 +3542,8 @@
     "image": ""
   },
   {
-    "id": 141,
     "name": "Stanley Shunpike",
-    "alternate_names": [
-      "Stan"
-    ],
+    "alternate_names": ["Stan"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3831,11 +3567,8 @@
     "image": ""
   },
   {
-    "id": 142,
     "name": "Ernest Prang",
-    "alternate_names": [
-      "Ernie"
-    ],
+    "alternate_names": ["Ernie"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -3859,7 +3592,6 @@
     "image": ""
   },
   {
-    "id": 143,
     "name": "Madam Marsh",
     "alternate_names": [],
     "species": "human",
@@ -3885,7 +3617,6 @@
     "image": ""
   },
   {
-    "id": 144,
     "name": "Florean Fortescue",
     "alternate_names": [],
     "species": "human",
@@ -3911,7 +3642,6 @@
     "image": ""
   },
   {
-    "id": 145,
     "name": "Sir Cadogan",
     "alternate_names": [],
     "species": "human",
@@ -3937,12 +3667,8 @@
     "image": ""
   },
   {
-    "id": 146,
     "name": "Sybill Trelawney",
-    "alternate_names": [
-      "Sybill Patricia Trelawney",
-      "Professor Trelawney"
-    ],
+    "alternate_names": ["Sybill Patricia Trelawney", "Professor Trelawney"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -3966,12 +3692,8 @@
     "image": ""
   },
   {
-    "id": 147,
     "name": "Buckbeak",
-    "alternate_names": [
-      "Beaky",
-      "Witherwings"
-    ],
+    "alternate_names": ["Beaky", "Witherwings"],
     "species": "hippogriff",
     "gender": "male",
     "house": "",
@@ -3995,13 +3717,8 @@
     "image": ""
   },
   {
-    "id": 148,
     "name": "Peter Pettigrew",
-    "alternate_names": [
-      "Wormtail",
-      "Scabbers",
-      "Wormy"
-    ],
+    "alternate_names": ["Wormtail", "Scabbers", "Wormy"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -4020,14 +3737,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Timothy Spall",
-    "alternate_actors": [
-      "Charles Hughes"
-    ],
+    "alternate_actors": ["Charles Hughes"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 149,
     "name": "Madam Rosmerta",
     "alternate_names": [],
     "species": "human",
@@ -4053,7 +3767,6 @@
     "image": ""
   },
   {
-    "id": 150,
     "name": "Derek",
     "alternate_names": [],
     "species": "human",
@@ -4079,11 +3792,8 @@
     "image": ""
   },
   {
-    "id": 151,
     "name": "Septima Vector",
-    "alternate_names": [
-      "Professor Vector"
-    ],
+    "alternate_names": ["Professor Vector"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -4107,7 +3817,6 @@
     "image": ""
   },
   {
-    "id": 152,
     "name": "Cassius Warrington",
     "alternate_names": [],
     "species": "human",
@@ -4133,7 +3842,6 @@
     "image": ""
   },
   {
-    "id": 153,
     "name": "Graham Montague",
     "alternate_names": [],
     "species": "human",
@@ -4159,7 +3867,6 @@
     "image": ""
   },
   {
-    "id": 154,
     "name": "Peregrine Derrick",
     "alternate_names": [],
     "species": "human",
@@ -4185,7 +3892,6 @@
     "image": ""
   },
   {
-    "id": 155,
     "name": "Lucian Bole",
     "alternate_names": [],
     "species": "human",
@@ -4211,7 +3917,6 @@
     "image": ""
   },
   {
-    "id": 156,
     "name": "Walden Macnair",
     "alternate_names": [],
     "species": "human",
@@ -4237,7 +3942,6 @@
     "image": ""
   },
   {
-    "id": 157,
     "name": "Franc Bryce",
     "alternate_names": [],
     "species": "human",
@@ -4263,7 +3967,6 @@
     "image": ""
   },
   {
-    "id": 158,
     "name": "Dot",
     "alternate_names": [],
     "species": "human",
@@ -4289,7 +3992,6 @@
     "image": ""
   },
   {
-    "id": 159,
     "name": "Bertha Jorkins",
     "alternate_names": [],
     "species": "human",
@@ -4315,11 +4017,8 @@
     "image": ""
   },
   {
-    "id": 160,
     "name": "Barty Crouch",
-    "alternate_names": [
-      "Bartemius Crouch Senior"
-    ],
+    "alternate_names": ["Bartemius Crouch Senior"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -4343,11 +4042,8 @@
     "image": ""
   },
   {
-    "id": 161,
     "name": "Ludo Bagman",
-    "alternate_names": [
-      "Ludovic Bagman"
-    ],
+    "alternate_names": ["Ludovic Bagman"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -4371,7 +4067,6 @@
     "image": ""
   },
   {
-    "id": 162,
     "name": "Amos Diggory",
     "alternate_names": [],
     "species": "human",
@@ -4397,7 +4092,6 @@
     "image": ""
   },
   {
-    "id": 163,
     "name": "Mr Roberts",
     "alternate_names": [],
     "species": "human",
@@ -4423,7 +4117,6 @@
     "image": ""
   },
   {
-    "id": 164,
     "name": "Mr Payne",
     "alternate_names": [],
     "species": "human",
@@ -4449,7 +4142,6 @@
     "image": ""
   },
   {
-    "id": 165,
     "name": "Basil",
     "alternate_names": [],
     "species": "human",
@@ -4475,7 +4167,6 @@
     "image": ""
   },
   {
-    "id": 166,
     "name": "Archie Aymslowe",
     "alternate_names": [],
     "species": "human",
@@ -4501,7 +4192,6 @@
     "image": ""
   },
   {
-    "id": 167,
     "name": "Cuthbert Mockridge",
     "alternate_names": [],
     "species": "human",
@@ -4527,7 +4217,6 @@
     "image": ""
   },
   {
-    "id": 168,
     "name": "Gilbert Wimple",
     "alternate_names": [],
     "species": "human",
@@ -4553,7 +4242,6 @@
     "image": ""
   },
   {
-    "id": 169,
     "name": "Arnold Peasegood",
     "alternate_names": [],
     "species": "human",
@@ -4579,7 +4267,6 @@
     "image": ""
   },
   {
-    "id": 170,
     "name": "Broderick Bode",
     "alternate_names": [],
     "species": "human",
@@ -4605,7 +4292,6 @@
     "image": ""
   },
   {
-    "id": 171,
     "name": "Saul Croaker",
     "alternate_names": [],
     "species": "human",
@@ -4631,7 +4317,6 @@
     "image": ""
   },
   {
-    "id": 172,
     "name": "Ali Bashir",
     "alternate_names": [],
     "species": "human",
@@ -4657,7 +4342,6 @@
     "image": ""
   },
   {
-    "id": 173,
     "name": "Victor Krum",
     "alternate_names": [],
     "species": "human",
@@ -4683,7 +4367,6 @@
     "image": ""
   },
   {
-    "id": 174,
     "name": "Winky",
     "alternate_names": [],
     "species": "house-elf",
@@ -4709,11 +4392,8 @@
     "image": ""
   },
   {
-    "id": 175,
     "name": "Narcissa Malfoy",
-    "alternate_names": [
-      "Cissy"
-    ],
+    "alternate_names": ["Cissy"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -4737,7 +4417,6 @@
     "image": ""
   },
   {
-    "id": 176,
     "name": "Vasily Dimitrov",
     "alternate_names": [],
     "species": "human",
@@ -4763,7 +4442,6 @@
     "image": ""
   },
   {
-    "id": 177,
     "name": "Clara Ivanova",
     "alternate_names": [],
     "species": "human",
@@ -4789,7 +4467,6 @@
     "image": ""
   },
   {
-    "id": 178,
     "name": "Lev Zograf",
     "alternate_names": [],
     "species": "human",
@@ -4815,7 +4492,6 @@
     "image": ""
   },
   {
-    "id": 179,
     "name": "Alexei Levski",
     "alternate_names": [],
     "species": "human",
@@ -4841,7 +4517,6 @@
     "image": ""
   },
   {
-    "id": 180,
     "name": "Pyotr Vulchanov",
     "alternate_names": [],
     "species": "human",
@@ -4867,7 +4542,6 @@
     "image": ""
   },
   {
-    "id": 181,
     "name": "Ivan Volkov",
     "alternate_names": [],
     "species": "human",
@@ -4893,7 +4567,6 @@
     "image": ""
   },
   {
-    "id": 182,
     "name": "Connolly",
     "alternate_names": [],
     "species": "human",
@@ -4919,7 +4592,6 @@
     "image": ""
   },
   {
-    "id": 183,
     "name": "Barry Ryan",
     "alternate_names": [],
     "species": "human",
@@ -4945,7 +4617,6 @@
     "image": ""
   },
   {
-    "id": 184,
     "name": "Troy",
     "alternate_names": [],
     "species": "human",
@@ -4971,7 +4642,6 @@
     "image": ""
   },
   {
-    "id": 185,
     "name": "Mullet",
     "alternate_names": [],
     "species": "human",
@@ -4997,7 +4667,6 @@
     "image": ""
   },
   {
-    "id": 186,
     "name": "Moran",
     "alternate_names": [],
     "species": "human",
@@ -5023,7 +4692,6 @@
     "image": ""
   },
   {
-    "id": 187,
     "name": "Quigley",
     "alternate_names": [],
     "species": "human",
@@ -5049,7 +4717,6 @@
     "image": ""
   },
   {
-    "id": 188,
     "name": "Aidan Lynch",
     "alternate_names": [],
     "species": "human",
@@ -5075,7 +4742,6 @@
     "image": ""
   },
   {
-    "id": 189,
     "name": "Hassan Mostafa",
     "alternate_names": [],
     "species": "human",
@@ -5101,7 +4767,6 @@
     "image": ""
   },
   {
-    "id": 190,
     "name": "Dennis Creevey",
     "alternate_names": [],
     "species": "human",
@@ -5127,11 +4792,8 @@
     "image": ""
   },
   {
-    "id": 191,
     "name": "Aurora Sinistra",
-    "alternate_names": [
-      "Professor Sinistra"
-    ],
+    "alternate_names": ["Professor Sinistra"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -5155,7 +4817,6 @@
     "image": ""
   },
   {
-    "id": 192,
     "name": "Stewart Ackerley",
     "alternate_names": [],
     "species": "human",
@@ -5181,7 +4842,6 @@
     "image": ""
   },
   {
-    "id": 193,
     "name": "Malcolm Baddock",
     "alternate_names": [],
     "species": "human",
@@ -5207,7 +4867,6 @@
     "image": ""
   },
   {
-    "id": 194,
     "name": "Eleanor Branstone",
     "alternate_names": [],
     "species": "human",
@@ -5233,7 +4892,6 @@
     "image": ""
   },
   {
-    "id": 195,
     "name": "Owen Cauldwell",
     "alternate_names": [],
     "species": "human",
@@ -5259,7 +4917,6 @@
     "image": ""
   },
   {
-    "id": 196,
     "name": "Emma Dobbs",
     "alternate_names": [],
     "species": "human",
@@ -5285,7 +4942,6 @@
     "image": ""
   },
   {
-    "id": 197,
     "name": "Laura Madley",
     "alternate_names": [],
     "species": "human",
@@ -5311,7 +4967,6 @@
     "image": ""
   },
   {
-    "id": 198,
     "name": "Natalie McDonald",
     "alternate_names": [],
     "species": "human",
@@ -5337,7 +4992,6 @@
     "image": ""
   },
   {
-    "id": 199,
     "name": "Graham Pritchard",
     "alternate_names": [],
     "species": "human",
@@ -5363,7 +5017,6 @@
     "image": ""
   },
   {
-    "id": 200,
     "name": "Orla Quirke",
     "alternate_names": [],
     "species": "human",
@@ -5389,7 +5042,6 @@
     "image": ""
   },
   {
-    "id": 201,
     "name": "Kevin Whitby",
     "alternate_names": [],
     "species": "human",
@@ -5415,7 +5067,6 @@
     "image": ""
   },
   {
-    "id": 202,
     "name": "Eloise Midgen",
     "alternate_names": [],
     "species": "human",
@@ -5441,12 +5092,8 @@
     "image": ""
   },
   {
-    "id": 203,
     "name": "Alastor Moody",
-    "alternate_names": [
-      "Professor Moody",
-      "Mad-Eye"
-    ],
+    "alternate_names": ["Professor Moody", "Mad-Eye"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -5470,11 +5117,8 @@
     "image": ""
   },
   {
-    "id": 204,
     "name": "Madame Maxime",
-    "alternate_names": [
-      "Olympe Maxime"
-    ],
+    "alternate_names": ["Olympe Maxime"],
     "species": "half-giant",
     "gender": "female",
     "house": "",
@@ -5493,14 +5137,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Frances de la Tour",
-    "alternate_actors": [
-      "Ian Whyte"
-    ],
+    "alternate_actors": ["Ian Whyte"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 205,
     "name": "Igor Karkaroff",
     "alternate_names": [],
     "species": "human",
@@ -5526,7 +5167,6 @@
     "image": ""
   },
   {
-    "id": 206,
     "name": "Poliakoff",
     "alternate_names": [],
     "species": "human",
@@ -5552,7 +5192,6 @@
     "image": ""
   },
   {
-    "id": 207,
     "name": "Fawcett",
     "alternate_names": [],
     "species": "human",
@@ -5578,7 +5217,6 @@
     "image": ""
   },
   {
-    "id": 208,
     "name": "Summers",
     "alternate_names": [],
     "species": "human",
@@ -5604,7 +5242,6 @@
     "image": ""
   },
   {
-    "id": 209,
     "name": "Fleur Delacour",
     "alternate_names": [],
     "species": "human",
@@ -5630,11 +5267,8 @@
     "image": ""
   },
   {
-    "id": 210,
     "name": "Gregorovic",
-    "alternate_names": [
-      "Mykew Gregorovitch"
-    ],
+    "alternate_names": ["Mykew Gregorovitch"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -5658,7 +5292,6 @@
     "image": ""
   },
   {
-    "id": 211,
     "name": "Rita Skeeter",
     "alternate_names": [],
     "species": "human",
@@ -5684,7 +5317,6 @@
     "image": ""
   },
   {
-    "id": 212,
     "name": "Stebbins",
     "alternate_names": [],
     "species": "human",
@@ -5710,11 +5342,8 @@
     "image": ""
   },
   {
-    "id": 213,
     "name": "Wilhelmina Grubbly-Plank",
-    "alternate_names": [
-      "Professor Grubbly-Plank"
-    ],
+    "alternate_names": ["Professor Grubbly-Plank"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -5738,7 +5367,6 @@
     "image": ""
   },
   {
-    "id": 214,
     "name": "Bozo",
     "alternate_names": [],
     "species": "human",
@@ -5759,14 +5387,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Peter O'Farrell",
-    "alternate_actors": [
-      "Robert Wilfort"
-    ],
+    "alternate_actors": ["Robert Wilfort"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 215,
     "name": "Evan Rosier",
     "alternate_names": [],
     "species": "human",
@@ -5792,7 +5417,6 @@
     "image": ""
   },
   {
-    "id": 216,
     "name": "Wilkes",
     "alternate_names": [],
     "species": "human",
@@ -5818,7 +5442,6 @@
     "image": ""
   },
   {
-    "id": 217,
     "name": "Avery",
     "alternate_names": [],
     "species": "human",
@@ -5844,7 +5467,6 @@
     "image": ""
   },
   {
-    "id": 218,
     "name": "Antonin Dolohov",
     "alternate_names": [],
     "species": "human",
@@ -5870,7 +5492,6 @@
     "image": ""
   },
   {
-    "id": 219,
     "name": "Travers",
     "alternate_names": [],
     "species": "human",
@@ -5896,7 +5517,6 @@
     "image": ""
   },
   {
-    "id": 220,
     "name": "Marlene McKinnon",
     "alternate_names": [],
     "species": "human",
@@ -5922,7 +5542,6 @@
     "image": ""
   },
   {
-    "id": 221,
     "name": "Mulciber",
     "alternate_names": [],
     "species": "human",
@@ -5948,7 +5567,6 @@
     "image": ""
   },
   {
-    "id": 222,
     "name": "Augustus Rookwood",
     "alternate_names": [],
     "species": "human",
@@ -5974,7 +5592,6 @@
     "image": ""
   },
   {
-    "id": 223,
     "name": "Frank Longbottom",
     "alternate_names": [],
     "species": "human",
@@ -6000,7 +5617,6 @@
     "image": ""
   },
   {
-    "id": 224,
     "name": "Alice Longbottom",
     "alternate_names": [],
     "species": "human",
@@ -6026,7 +5642,6 @@
     "image": ""
   },
   {
-    "id": 225,
     "name": "Violet",
     "alternate_names": [],
     "species": "human",
@@ -6052,7 +5667,6 @@
     "image": ""
   },
   {
-    "id": 226,
     "name": "Apollyon Pringle",
     "alternate_names": [],
     "species": "human",
@@ -6078,7 +5692,6 @@
     "image": ""
   },
   {
-    "id": 227,
     "name": "Ogg",
     "alternate_names": [],
     "species": "human",
@@ -6104,7 +5717,6 @@
     "image": ""
   },
   {
-    "id": 228,
     "name": "Mafalda Hopkirk",
     "alternate_names": [],
     "species": "human",
@@ -6130,12 +5742,8 @@
     "image": ""
   },
   {
-    "id": 229,
     "name": "Nymphadora Tonks",
-    "alternate_names": [
-      "Dora",
-      "Nymphadora Lupin"
-    ],
+    "alternate_names": ["Dora", "Nymphadora Lupin"],
     "species": "human",
     "gender": "female",
     "house": "Hufflepuff",
@@ -6159,7 +5767,6 @@
     "image": ""
   },
   {
-    "id": 230,
     "name": "Elphias Doge",
     "alternate_names": [],
     "species": "human",
@@ -6185,7 +5792,6 @@
     "image": ""
   },
   {
-    "id": 231,
     "name": "Dedalus Diggle",
     "alternate_names": [],
     "species": "human",
@@ -6211,7 +5817,6 @@
     "image": ""
   },
   {
-    "id": 232,
     "name": "Sturgis Podmore",
     "alternate_names": [],
     "species": "human",
@@ -6237,7 +5842,6 @@
     "image": ""
   },
   {
-    "id": 233,
     "name": "Hestia Jones",
     "alternate_names": [],
     "species": "human",
@@ -6263,7 +5867,6 @@
     "image": ""
   },
   {
-    "id": 234,
     "name": "Ragnok",
     "alternate_names": [],
     "species": "goblin",
@@ -6289,7 +5892,6 @@
     "image": ""
   },
   {
-    "id": 235,
     "name": "Alphard Black",
     "alternate_names": [],
     "species": "human",
@@ -6315,11 +5917,8 @@
     "image": ""
   },
   {
-    "id": 236,
     "name": "Regulus Black",
-    "alternate_names": [
-      "Regulus Arcturus Black"
-    ],
+    "alternate_names": ["Regulus Arcturus Black"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -6343,11 +5942,8 @@
     "image": ""
   },
   {
-    "id": 237,
     "name": "Phineas Nigelus Black",
-    "alternate_names": [
-      "Professor Phineas Nigellus Black"
-    ],
+    "alternate_names": ["Professor Phineas Nigellus Black"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -6371,7 +5967,6 @@
     "image": ""
   },
   {
-    "id": 238,
     "name": "Araminta Meliflua Black",
     "alternate_names": [],
     "species": "human",
@@ -6397,7 +5992,6 @@
     "image": ""
   },
   {
-    "id": 239,
     "name": "Elladora Black",
     "alternate_names": [],
     "species": "human",
@@ -6423,7 +6017,6 @@
     "image": ""
   },
   {
-    "id": 240,
     "name": "Andromeda Tonks",
     "alternate_names": [],
     "species": "human",
@@ -6449,11 +6042,8 @@
     "image": ""
   },
   {
-    "id": 241,
     "name": "Ted Tonks",
-    "alternate_names": [
-      "Edward"
-    ],
+    "alternate_names": ["Edward"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -6477,7 +6067,6 @@
     "image": ""
   },
   {
-    "id": 242,
     "name": "Rodolphus Lestrange",
     "alternate_names": [],
     "species": "human",
@@ -6503,7 +6092,6 @@
     "image": ""
   },
   {
-    "id": 243,
     "name": "Rabastan Lestrange",
     "alternate_names": [],
     "species": "human",
@@ -6529,7 +6117,6 @@
     "image": ""
   },
   {
-    "id": 244,
     "name": "Eric Munch",
     "alternate_names": [],
     "species": "human",
@@ -6555,7 +6142,6 @@
     "image": ""
   },
   {
-    "id": 245,
     "name": "Bob",
     "alternate_names": [],
     "species": "human",
@@ -6581,7 +6167,6 @@
     "image": ""
   },
   {
-    "id": 246,
     "name": "Bengie Fenwick",
     "alternate_names": [],
     "species": "human",
@@ -6607,7 +6192,6 @@
     "image": ""
   },
   {
-    "id": 247,
     "name": "Edgar Bones",
     "alternate_names": [],
     "species": "human",
@@ -6633,7 +6217,6 @@
     "image": ""
   },
   {
-    "id": 248,
     "name": "Amelia Bones",
     "alternate_names": [],
     "species": "human",
@@ -6659,7 +6242,6 @@
     "image": ""
   },
   {
-    "id": 249,
     "name": "Caradoc Dearborn",
     "alternate_names": [],
     "species": "human",
@@ -6685,7 +6267,6 @@
     "image": ""
   },
   {
-    "id": 250,
     "name": "Gideon Prewett",
     "alternate_names": [],
     "species": "human",
@@ -6711,7 +6292,6 @@
     "image": ""
   },
   {
-    "id": 251,
     "name": "Fabian Prewett",
     "alternate_names": [],
     "species": "human",
@@ -6737,7 +6317,6 @@
     "image": ""
   },
   {
-    "id": 252,
     "name": "Aberforth Dumbledore",
     "alternate_names": [],
     "species": "human",
@@ -6758,14 +6337,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Jim McManus",
-    "alternate_actors": [
-      "Ciarán Hinds"
-    ],
+    "alternate_actors": ["Ciarán Hinds"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 253,
     "name": "Dorcas Meadowes",
     "alternate_names": [],
     "species": "human",
@@ -6791,7 +6367,6 @@
     "image": ""
   },
   {
-    "id": 254,
     "name": "Algie Longbottom",
     "alternate_names": [],
     "species": "human",
@@ -6817,7 +6392,6 @@
     "image": ""
   },
   {
-    "id": 255,
     "name": "Anthony Goldstein",
     "alternate_names": [],
     "species": "human",
@@ -6843,7 +6417,6 @@
     "image": ""
   },
   {
-    "id": 256,
     "name": "Stubby Boardman",
     "alternate_names": [],
     "species": "human",
@@ -6869,7 +6442,6 @@
     "image": ""
   },
   {
-    "id": 257,
     "name": "Doris Purkiss",
     "alternate_names": [],
     "species": "human",
@@ -6895,7 +6467,6 @@
     "image": ""
   },
   {
-    "id": 258,
     "name": "Euan Abercrombie",
     "alternate_names": [],
     "species": "human",
@@ -6921,7 +6492,6 @@
     "image": ""
   },
   {
-    "id": 259,
     "name": "Rose Zeller",
     "alternate_names": [],
     "species": "human",
@@ -6947,7 +6517,6 @@
     "image": ""
   },
   {
-    "id": 260,
     "name": "Patricia Stimpson",
     "alternate_names": [],
     "species": "human",
@@ -6973,7 +6542,6 @@
     "image": ""
   },
   {
-    "id": 261,
     "name": "Kenneth Towler",
     "alternate_names": [],
     "species": "human",
@@ -6999,7 +6567,6 @@
     "image": ""
   },
   {
-    "id": 262,
     "name": "Vicky Frobisher",
     "alternate_names": [],
     "species": "human",
@@ -7025,7 +6592,6 @@
     "image": ""
   },
   {
-    "id": 263,
     "name": "Geoffrey Hooper",
     "alternate_names": [],
     "species": "human",
@@ -7051,7 +6617,6 @@
     "image": ""
   },
   {
-    "id": 264,
     "name": "Cassandra Trelawney",
     "alternate_names": [],
     "species": "human",
@@ -7077,7 +6642,6 @@
     "image": ""
   },
   {
-    "id": 265,
     "name": "Michael Corner",
     "alternate_names": [],
     "species": "human",
@@ -7103,7 +6667,6 @@
     "image": ""
   },
   {
-    "id": 266,
     "name": "Zacharias Smith",
     "alternate_names": [],
     "species": "human",
@@ -7129,7 +6692,6 @@
     "image": ""
   },
   {
-    "id": 267,
     "name": "Barnabas the Barmy",
     "alternate_names": [],
     "species": "human",
@@ -7155,7 +6717,6 @@
     "image": ""
   },
   {
-    "id": 268,
     "name": "Karkus",
     "alternate_names": [],
     "species": "giant",
@@ -7181,7 +6742,6 @@
     "image": ""
   },
   {
-    "id": 269,
     "name": "Golgomath",
     "alternate_names": [],
     "species": "giant",
@@ -7207,7 +6767,6 @@
     "image": ""
   },
   {
-    "id": 270,
     "name": "Fridwulfa",
     "alternate_names": [],
     "species": "giant",
@@ -7233,7 +6792,6 @@
     "image": ""
   },
   {
-    "id": 271,
     "name": "Andrew Kirke",
     "alternate_names": [],
     "species": "human",
@@ -7259,7 +6817,6 @@
     "image": ""
   },
   {
-    "id": 272,
     "name": "Jack Sloper",
     "alternate_names": [],
     "species": "human",
@@ -7285,11 +6842,8 @@
     "image": ""
   },
   {
-    "id": 273,
     "name": "Everard",
-    "alternate_names": [
-      "Professor Everard"
-    ],
+    "alternate_names": ["Professor Everard"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -7313,7 +6867,6 @@
     "image": ""
   },
   {
-    "id": 274,
     "name": "Dilys Derwent",
     "alternate_names": [],
     "species": "human",
@@ -7339,7 +6892,6 @@
     "image": ""
   },
   {
-    "id": 275,
     "name": "Hippocrates Smethwyck",
     "alternate_names": [],
     "species": "human",
@@ -7365,7 +6917,6 @@
     "image": ""
   },
   {
-    "id": 276,
     "name": "Augustus Pye",
     "alternate_names": [],
     "species": "human",
@@ -7391,7 +6942,6 @@
     "image": ""
   },
   {
-    "id": 277,
     "name": "Urquhart Rackharrow",
     "alternate_names": [],
     "species": "human",
@@ -7417,7 +6967,6 @@
     "image": ""
   },
   {
-    "id": 278,
     "name": "Willy Widdershins",
     "alternate_names": [],
     "species": "human",
@@ -7443,7 +6992,6 @@
     "image": ""
   },
   {
-    "id": 279,
     "name": "Agnes",
     "alternate_names": [],
     "species": "human",
@@ -7469,7 +7017,6 @@
     "image": ""
   },
   {
-    "id": 280,
     "name": "Miriam Strout",
     "alternate_names": [],
     "species": "human",
@@ -7495,7 +7042,6 @@
     "image": ""
   },
   {
-    "id": 281,
     "name": "Madam Puddifoot",
     "alternate_names": [],
     "species": "human",
@@ -7521,7 +7067,6 @@
     "image": ""
   },
   {
-    "id": 282,
     "name": "Summerby",
     "alternate_names": [],
     "species": "human",
@@ -7547,7 +7092,6 @@
     "image": ""
   },
   {
-    "id": 283,
     "name": "Marietta Edgecombe",
     "alternate_names": [],
     "species": "human",
@@ -7573,7 +7117,6 @@
     "image": ""
   },
   {
-    "id": 284,
     "name": "Madam Edgecombe",
     "alternate_names": [],
     "species": "human",
@@ -7599,7 +7142,6 @@
     "image": ""
   },
   {
-    "id": 285,
     "name": "John Dawlish",
     "alternate_names": [],
     "species": "human",
@@ -7625,7 +7167,6 @@
     "image": ""
   },
   {
-    "id": 286,
     "name": "Bradley",
     "alternate_names": [],
     "species": "human",
@@ -7651,7 +7192,6 @@
     "image": ""
   },
   {
-    "id": 287,
     "name": "Roger Davies",
     "alternate_names": [],
     "species": "human",
@@ -7677,7 +7217,6 @@
     "image": ""
   },
   {
-    "id": 288,
     "name": "Grawp",
     "alternate_names": [],
     "species": "giant",
@@ -7698,18 +7237,13 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Tony Maudsley",
-    "alternate_actors": [
-      "William Todd-Jones"
-    ],
+    "alternate_actors": ["William Todd-Jones"],
     "alive": true,
     "image": ""
   },
   {
-    "id": 289,
     "name": "Griselda Marchbanks",
-    "alternate_names": [
-      "Madam Professor Griselda Marchbanks"
-    ],
+    "alternate_names": ["Madam Professor Griselda Marchbanks"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -7733,7 +7267,6 @@
     "image": ""
   },
   {
-    "id": 290,
     "name": "Eddie Carmichael",
     "alternate_names": [],
     "species": "human",
@@ -7759,7 +7292,6 @@
     "image": ""
   },
   {
-    "id": 291,
     "name": "Daphne Greengrass",
     "alternate_names": [],
     "species": "human",
@@ -7785,11 +7317,8 @@
     "image": ""
   },
   {
-    "id": 292,
     "name": "Tofty",
-    "alternate_names": [
-      "Professor Tofty"
-    ],
+    "alternate_names": ["Professor Tofty"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -7813,7 +7342,6 @@
     "image": ""
   },
   {
-    "id": 293,
     "name": "Tiberius Ogden",
     "alternate_names": [],
     "species": "human",
@@ -7839,7 +7367,6 @@
     "image": ""
   },
   {
-    "id": 294,
     "name": "Pierre Bonaccord",
     "alternate_names": [],
     "species": "human",
@@ -7865,11 +7392,8 @@
     "image": ""
   },
   {
-    "id": 295,
     "name": "Stubby Boardman",
-    "alternate_names": [
-      "Sirius Black"
-    ],
+    "alternate_names": ["Sirius Black"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -7893,7 +7417,6 @@
     "image": ""
   },
   {
-    "id": 296,
     "name": "Magorian",
     "alternate_names": [],
     "species": "centaur",
@@ -7919,7 +7442,6 @@
     "image": ""
   },
   {
-    "id": 297,
     "name": "Emmeline Vance",
     "alternate_names": [],
     "species": "human",
@@ -7945,7 +7467,6 @@
     "image": ""
   },
   {
-    "id": 298,
     "name": "Herbert Chorley",
     "alternate_names": [],
     "species": "human",
@@ -7971,7 +7492,6 @@
     "image": ""
   },
   {
-    "id": 299,
     "name": "Rufus Scrimgeour",
     "alternate_names": [],
     "species": "human",
@@ -7997,7 +7517,6 @@
     "image": ""
   },
   {
-    "id": 300,
     "name": "Corban Yaxley",
     "alternate_names": [],
     "species": "human",
@@ -8023,7 +7542,6 @@
     "image": ""
   },
   {
-    "id": 301,
     "name": "Fenrir Greyback",
     "alternate_names": [],
     "species": "werewolf",
@@ -8049,7 +7567,6 @@
     "image": ""
   },
   {
-    "id": 302,
     "name": "Dirk Cresswell",
     "alternate_names": [],
     "species": "human",
@@ -8075,7 +7592,6 @@
     "image": ""
   },
   {
-    "id": 303,
     "name": "Barnabas Cuffe",
     "alternate_names": [],
     "species": "human",
@@ -8101,7 +7617,6 @@
     "image": ""
   },
   {
-    "id": 304,
     "name": "Ambrosius Flume",
     "alternate_names": [],
     "species": "human",
@@ -8127,7 +7642,6 @@
     "image": ""
   },
   {
-    "id": 305,
     "name": "Gwenog Jones",
     "alternate_names": [],
     "species": "human",
@@ -8153,7 +7667,6 @@
     "image": ""
   },
   {
-    "id": 306,
     "name": "Arkie Philpott",
     "alternate_names": [],
     "species": "human",
@@ -8179,7 +7692,6 @@
     "image": ""
   },
   {
-    "id": 307,
     "name": "Verity",
     "alternate_names": [],
     "species": "human",
@@ -8205,7 +7717,6 @@
     "image": ""
   },
   {
-    "id": 308,
     "name": "Romilda Vane",
     "alternate_names": [],
     "species": "human",
@@ -8231,7 +7742,6 @@
     "image": ""
   },
   {
-    "id": 309,
     "name": "Cormac McLaggen",
     "alternate_names": [],
     "species": "human",
@@ -8257,7 +7767,6 @@
     "image": ""
   },
   {
-    "id": 310,
     "name": "Marcus Belby",
     "alternate_names": [],
     "species": "human",
@@ -8283,7 +7792,6 @@
     "image": ""
   },
   {
-    "id": 311,
     "name": "Damocles Belby",
     "alternate_names": [],
     "species": "human",
@@ -8309,7 +7817,6 @@
     "image": ""
   },
   {
-    "id": 312,
     "name": "Tiberius",
     "alternate_names": [],
     "species": "human",
@@ -8335,7 +7842,6 @@
     "image": ""
   },
   {
-    "id": 313,
     "name": "Bertie Higgs",
     "alternate_names": [],
     "species": "human",
@@ -8361,7 +7867,6 @@
     "image": ""
   },
   {
-    "id": 314,
     "name": "Proudfoot",
     "alternate_names": [],
     "species": "human",
@@ -8387,7 +7892,6 @@
     "image": ""
   },
   {
-    "id": 315,
     "name": "Savage",
     "alternate_names": [],
     "species": "human",
@@ -8413,7 +7917,6 @@
     "image": ""
   },
   {
-    "id": 316,
     "name": "Humphrey Belcher",
     "alternate_names": [],
     "species": "human",
@@ -8439,7 +7942,6 @@
     "image": ""
   },
   {
-    "id": 317,
     "name": "Bob Ogden",
     "alternate_names": [],
     "species": "human",
@@ -8465,7 +7967,6 @@
     "image": ""
   },
   {
-    "id": 318,
     "name": "Morfin Gaunt",
     "alternate_names": [],
     "species": "human",
@@ -8491,7 +7992,6 @@
     "image": ""
   },
   {
-    "id": 319,
     "name": "Marvolo Gaunt",
     "alternate_names": [],
     "species": "human",
@@ -8517,11 +8017,8 @@
     "image": ""
   },
   {
-    "id": 320,
     "name": "Merope Gaunt",
-    "alternate_names": [
-      "Merope Riddle"
-    ],
+    "alternate_names": ["Merope Riddle"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -8545,7 +8042,6 @@
     "image": ""
   },
   {
-    "id": 321,
     "name": "Cecilia",
     "alternate_names": [],
     "species": "human",
@@ -8571,11 +8067,8 @@
     "image": ""
   },
   {
-    "id": 322,
     "name": "Tom Riddle",
-    "alternate_names": [
-      "Tom Riddle Senior"
-    ],
+    "alternate_names": ["Tom Riddle Senior"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -8599,7 +8092,6 @@
     "image": ""
   },
   {
-    "id": 323,
     "name": "Demelza Robins",
     "alternate_names": [],
     "species": "human",
@@ -8625,7 +8117,6 @@
     "image": ""
   },
   {
-    "id": 324,
     "name": "Jimmy Peakes",
     "alternate_names": [],
     "species": "human",
@@ -8651,7 +8142,6 @@
     "image": ""
   },
   {
-    "id": 325,
     "name": "Ritchie Coote",
     "alternate_names": [],
     "species": "human",
@@ -8677,7 +8167,6 @@
     "image": ""
   },
   {
-    "id": 326,
     "name": "Melinda Bobbin",
     "alternate_names": [],
     "species": "human",
@@ -8703,7 +8192,6 @@
     "image": ""
   },
   {
-    "id": 327,
     "name": "Leanne",
     "alternate_names": [],
     "species": "human",
@@ -8729,7 +8217,6 @@
     "image": ""
   },
   {
-    "id": 328,
     "name": "Caractacus Burke",
     "alternate_names": [],
     "species": "human",
@@ -8755,7 +8242,6 @@
     "image": ""
   },
   {
-    "id": 329,
     "name": "Billy Stubbs",
     "alternate_names": [],
     "species": "human",
@@ -8781,7 +8267,6 @@
     "image": ""
   },
   {
-    "id": 330,
     "name": "Amy Benson",
     "alternate_names": [],
     "species": "human",
@@ -8807,7 +8292,6 @@
     "image": ""
   },
   {
-    "id": 331,
     "name": "Dennis Bishop",
     "alternate_names": [],
     "species": "human",
@@ -8833,7 +8317,6 @@
     "image": ""
   },
   {
-    "id": 332,
     "name": "Mrs Cole",
     "alternate_names": [],
     "species": "human",
@@ -8859,7 +8342,6 @@
     "image": ""
   },
   {
-    "id": 333,
     "name": "Eric Whalley",
     "alternate_names": [],
     "species": "human",
@@ -8885,7 +8367,6 @@
     "image": ""
   },
   {
-    "id": 334,
     "name": "Vaisey",
     "alternate_names": [],
     "species": "human",
@@ -8911,7 +8392,6 @@
     "image": ""
   },
   {
-    "id": 335,
     "name": "Harper",
     "alternate_names": [],
     "species": "human",
@@ -8937,7 +8417,6 @@
     "image": ""
   },
   {
-    "id": 336,
     "name": "Urquhart",
     "alternate_names": [],
     "species": "human",
@@ -8963,7 +8442,6 @@
     "image": ""
   },
   {
-    "id": 337,
     "name": "Eldred Worple",
     "alternate_names": [],
     "species": "human",
@@ -8989,7 +8467,6 @@
     "image": ""
   },
   {
-    "id": 338,
     "name": "Sangwini",
     "alternate_names": [],
     "species": "vampire",
@@ -9015,7 +8492,6 @@
     "image": ""
   },
   {
-    "id": 339,
     "name": "Gawain Robards",
     "alternate_names": [],
     "species": "human",
@@ -9041,7 +8517,6 @@
     "image": ""
   },
   {
-    "id": 340,
     "name": "Fergus",
     "alternate_names": [],
     "species": "human",
@@ -9067,7 +8542,6 @@
     "image": ""
   },
   {
-    "id": 341,
     "name": "Wilkie Twycross",
     "alternate_names": [],
     "species": "human",
@@ -9093,7 +8567,6 @@
     "image": ""
   },
   {
-    "id": 342,
     "name": "Cadwallader",
     "alternate_names": [],
     "species": "human",
@@ -9119,7 +8592,6 @@
     "image": ""
   },
   {
-    "id": 343,
     "name": "Galatea Merrythought",
     "alternate_names": [],
     "species": "human",
@@ -9145,7 +8617,6 @@
     "image": ""
   },
   {
-    "id": 344,
     "name": "Hepzibah Smith",
     "alternate_names": [],
     "species": "human",
@@ -9171,7 +8642,6 @@
     "image": ""
   },
   {
-    "id": 345,
     "name": "Hokey",
     "alternate_names": [],
     "species": "house-elf",
@@ -9197,7 +8667,6 @@
     "image": ""
   },
   {
-    "id": 346,
     "name": "Octavius Pepper",
     "alternate_names": [],
     "species": "human",
@@ -9223,7 +8692,6 @@
     "image": ""
   },
   {
-    "id": 347,
     "name": "Bertram Aubrey",
     "alternate_names": [],
     "species": "human",
@@ -9249,7 +8717,6 @@
     "image": ""
   },
   {
-    "id": 348,
     "name": "Eileen Prince",
     "alternate_names": [],
     "species": "human",
@@ -9275,7 +8742,6 @@
     "image": ""
   },
   {
-    "id": 349,
     "name": "Amycus Carrow",
     "alternate_names": [],
     "species": "human",
@@ -9301,7 +8767,6 @@
     "image": ""
   },
   {
-    "id": 350,
     "name": "Alecto Carrow",
     "alternate_names": [],
     "species": "human",
@@ -9327,7 +8792,6 @@
     "image": ""
   },
   {
-    "id": 351,
     "name": "Gibbon",
     "alternate_names": [],
     "species": "human",
@@ -9353,7 +8817,6 @@
     "image": ""
   },
   {
-    "id": 352,
     "name": "Tobias Snape",
     "alternate_names": [],
     "species": "human",
@@ -9379,7 +8842,6 @@
     "image": ""
   },
   {
-    "id": 353,
     "name": "Pius Thicknesse",
     "alternate_names": [],
     "species": "human",
@@ -9405,7 +8867,6 @@
     "image": ""
   },
   {
-    "id": 354,
     "name": "Charity Burbage",
     "alternate_names": [],
     "species": "human",
@@ -9431,7 +8892,6 @@
     "image": ""
   },
   {
-    "id": 355,
     "name": "Percival Dumbledore",
     "alternate_names": [],
     "species": "human",
@@ -9457,7 +8917,6 @@
     "image": ""
   },
   {
-    "id": 356,
     "name": "Kendra Dumbledore",
     "alternate_names": [],
     "species": "human",
@@ -9483,7 +8942,6 @@
     "image": ""
   },
   {
-    "id": 357,
     "name": "Ariana Dumbledore",
     "alternate_names": [],
     "species": "human",
@@ -9509,7 +8967,6 @@
     "image": ""
   },
   {
-    "id": 358,
     "name": "Betty Braithwaite",
     "alternate_names": [],
     "species": "human",
@@ -9535,7 +8992,6 @@
     "image": ""
   },
   {
-    "id": 359,
     "name": "Apolline Delacour",
     "alternate_names": [],
     "species": "half-human",
@@ -9561,7 +9017,6 @@
     "image": ""
   },
   {
-    "id": 360,
     "name": "Gabrielle Delacour",
     "alternate_names": [],
     "species": "human",
@@ -9587,7 +9042,6 @@
     "image": ""
   },
   {
-    "id": 361,
     "name": "Monsieur Delacour",
     "alternate_names": [],
     "species": "human",
@@ -9613,7 +9067,6 @@
     "image": ""
   },
   {
-    "id": 362,
     "name": "Dragomir Gorgovitch",
     "alternate_names": [],
     "species": "human",
@@ -9639,7 +9092,6 @@
     "image": ""
   },
   {
-    "id": 363,
     "name": "Xenophilius Lovegood",
     "alternate_names": [],
     "species": "human",
@@ -9665,11 +9117,8 @@
     "image": ""
   },
   {
-    "id": 364,
     "name": "Muriel",
-    "alternate_names": [
-      "Aunt Muriel"
-    ],
+    "alternate_names": ["Aunt Muriel"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -9693,11 +9142,8 @@
     "image": ""
   },
   {
-    "id": 365,
     "name": "Bilius",
-    "alternate_names": [
-      "Uncle Bilius"
-    ],
+    "alternate_names": ["Uncle Bilius"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -9721,7 +9167,6 @@
     "image": ""
   },
   {
-    "id": 366,
     "name": "Thorfinn Rowle",
     "alternate_names": [],
     "species": "human",
@@ -9747,11 +9192,8 @@
     "image": ""
   },
   {
-    "id": 367,
     "name": "Reg Cattermole",
-    "alternate_names": [
-      "Reginald Cattermole"
-    ],
+    "alternate_names": ["Reginald Cattermole"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -9775,7 +9217,6 @@
     "image": ""
   },
   {
-    "id": 368,
     "name": "Albert Runcorn",
     "alternate_names": [],
     "species": "human",
@@ -9801,7 +9242,6 @@
     "image": ""
   },
   {
-    "id": 369,
     "name": "Arkie Alderton",
     "alternate_names": [],
     "species": "human",
@@ -9827,11 +9267,8 @@
     "image": ""
   },
   {
-    "id": 370,
     "name": "Mary Cattermole",
-    "alternate_names": [
-      "Mary Elizabeth Cattermole"
-    ],
+    "alternate_names": ["Mary Elizabeth Cattermole"],
     "species": "human",
     "gender": "female",
     "house": "",
@@ -9855,7 +9292,6 @@
     "image": ""
   },
   {
-    "id": 371,
     "name": "Maisie Cattermole",
     "alternate_names": [],
     "species": "human",
@@ -9881,7 +9317,6 @@
     "image": ""
   },
   {
-    "id": 372,
     "name": "Ellie Cattermole",
     "alternate_names": [],
     "species": "human",
@@ -9907,7 +9342,6 @@
     "image": ""
   },
   {
-    "id": 373,
     "name": "Alfred Cattermole",
     "alternate_names": [],
     "species": "human",
@@ -9933,7 +9367,6 @@
     "image": ""
   },
   {
-    "id": 374,
     "name": "Gornuk",
     "alternate_names": [],
     "species": "goblin",
@@ -9959,7 +9392,6 @@
     "image": ""
   },
   {
-    "id": 375,
     "name": "Bowman Wright",
     "alternate_names": [],
     "species": "human",
@@ -9985,7 +9417,6 @@
     "image": ""
   },
   {
-    "id": 376,
     "name": "Ivor Dillonsby",
     "alternate_names": [],
     "species": "human",
@@ -10011,7 +9442,6 @@
     "image": ""
   },
   {
-    "id": 377,
     "name": "Enid Smeek",
     "alternate_names": [],
     "species": "human",
@@ -10037,7 +9467,6 @@
     "image": ""
   },
   {
-    "id": 378,
     "name": "Egbert the Egregious",
     "alternate_names": [],
     "species": "human",
@@ -10063,7 +9492,6 @@
     "image": ""
   },
   {
-    "id": 379,
     "name": "Godelot",
     "alternate_names": [],
     "species": "human",
@@ -10089,7 +9517,6 @@
     "image": ""
   },
   {
-    "id": 380,
     "name": "Hereward",
     "alternate_names": [],
     "species": "human",
@@ -10115,7 +9542,6 @@
     "image": ""
   },
   {
-    "id": 381,
     "name": "Loxias",
     "alternate_names": [],
     "species": "human",
@@ -10141,7 +9567,6 @@
     "image": ""
   },
   {
-    "id": 382,
     "name": "Barnabas Deverill",
     "alternate_names": [],
     "species": "human",
@@ -10167,7 +9592,6 @@
     "image": ""
   },
   {
-    "id": 383,
     "name": "Arcus",
     "alternate_names": [],
     "species": "human",
@@ -10193,7 +9617,6 @@
     "image": ""
   },
   {
-    "id": 384,
     "name": "Livius",
     "alternate_names": [],
     "species": "human",
@@ -10219,11 +9642,8 @@
     "image": ""
   },
   {
-    "id": 385,
     "name": "Antioch Peverell",
-    "alternate_names": [
-      "First Brother"
-    ],
+    "alternate_names": ["First Brother"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -10247,11 +9667,8 @@
     "image": ""
   },
   {
-    "id": 386,
     "name": "Cadmus Peverell",
-    "alternate_names": [
-      "Second Brother"
-    ],
+    "alternate_names": ["Second Brother"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -10275,11 +9692,8 @@
     "image": ""
   },
   {
-    "id": 387,
     "name": "Ignotus Peverell",
-    "alternate_names": [
-      "Third Brother"
-    ],
+    "alternate_names": ["Third Brother"],
     "species": "human",
     "gender": "male",
     "house": "",
@@ -10303,7 +9717,6 @@
     "image": ""
   },
   {
-    "id": 388,
     "name": "Selwyn",
     "alternate_names": [],
     "species": "human",
@@ -10329,7 +9742,6 @@
     "image": ""
   },
   {
-    "id": 389,
     "name": "Scabior",
     "alternate_names": [],
     "species": "human",
@@ -10355,11 +9767,8 @@
     "image": ""
   },
   {
-    "id": 390,
     "name": "Ragnuk the First",
-    "alternate_names": [
-      "King Ragnuk the First"
-    ],
+    "alternate_names": ["King Ragnuk the First"],
     "species": "goblin",
     "gender": "male",
     "house": "",
@@ -10383,11 +9792,8 @@
     "image": ""
   },
   {
-    "id": 391,
     "name": "Ted Lupin",
-    "alternate_names": [
-      "Edward Remus Teddy Lupin"
-    ],
+    "alternate_names": ["Edward Remus Teddy Lupin"],
     "species": "human",
     "gender": "male",
     "house": "Hufflepuff",
@@ -10411,7 +9817,6 @@
     "image": ""
   },
   {
-    "id": 392,
     "name": "Marius",
     "alternate_names": [],
     "species": "human",
@@ -10437,7 +9842,6 @@
     "image": ""
   },
   {
-    "id": 393,
     "name": "Bogrod",
     "alternate_names": [],
     "species": "goblin",
@@ -10463,11 +9867,8 @@
     "image": ""
   },
   {
-    "id": 394,
     "name": "The Grey Lady",
-    "alternate_names": [
-      "Helena Ravenclaw"
-    ],
+    "alternate_names": ["Helena Ravenclaw"],
     "species": "ghost",
     "gender": "female",
     "house": "",
@@ -10486,14 +9887,11 @@
     "hogwartsStudent": false,
     "hogwartsStaff": false,
     "actor": "Nina Young",
-    "alternate_actors": [
-      "Kelly Macdonald"
-    ],
+    "alternate_actors": ["Kelly Macdonald"],
     "alive": false,
     "image": ""
   },
   {
-    "id": 395,
     "name": "Dexter Fortescue",
     "alternate_names": [],
     "species": "human",
@@ -10519,11 +9917,8 @@
     "image": ""
   },
   {
-    "id": 396,
     "name": "Lily Potter",
-    "alternate_names": [
-      "Lily Luna Potter"
-    ],
+    "alternate_names": ["Lily Luna Potter"],
     "species": "human",
     "gender": "female",
     "house": "Gryffindor",
@@ -10547,11 +9942,8 @@
     "image": ""
   },
   {
-    "id": 397,
     "name": "James Potter",
-    "alternate_names": [
-      "James Sirius Potter"
-    ],
+    "alternate_names": ["James Sirius Potter"],
     "species": "human",
     "gender": "male",
     "house": "Gryffindor",
@@ -10575,11 +9967,8 @@
     "image": ""
   },
   {
-    "id": 398,
     "name": "Albus Severus Potter",
-    "alternate_names": [
-      "Al"
-    ],
+    "alternate_names": ["Al"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -10603,7 +9992,6 @@
     "image": ""
   },
   {
-    "id": 399,
     "name": "Rose Weasley",
     "alternate_names": [],
     "species": "human",
@@ -10629,7 +10017,6 @@
     "image": ""
   },
   {
-    "id": 400,
     "name": "Hugo Weasley",
     "alternate_names": [],
     "species": "human",
@@ -10655,11 +10042,8 @@
     "image": ""
   },
   {
-    "id": 401,
     "name": "Scorpius Malfoy",
-    "alternate_names": [
-      "Scorpius Hyperion Malfoy"
-    ],
+    "alternate_names": ["Scorpius Hyperion Malfoy"],
     "species": "human",
     "gender": "male",
     "house": "Slytherin",
@@ -10683,7 +10067,6 @@
     "image": ""
   },
   {
-    "id": 402,
     "name": "Victoire Weasley",
     "alternate_names": [],
     "species": "human",
