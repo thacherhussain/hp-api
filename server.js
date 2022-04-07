@@ -76,17 +76,6 @@ app.get('/api/characters/:id', function (req, res) {
 
     const singleCharacter = getSingleCharacter(id)
 
-    console.log(singleCharacter)
-
-    // singleCharacter = [{ id: id }]
-    // const findCharacter = json.find((character) => character.id === id)
-    // console.log(findCharacter)
-    // for (character of json) {
-    //   if (character.id === req.params.id) {
-    //     singleCharacter.push(character)
-    //   }
-    // }
-
     res.setHeader('Access-Control-Allow-Origin', '*')
     res.json(singleCharacter)
   })
