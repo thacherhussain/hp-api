@@ -1,6 +1,6 @@
 # Harry Potter API
 
-A simple JSON-based API for getting information on Harry Potter characters.
+A simple JSON-based API for getting information on Harry Potter characters to use for dummy endpoints when first starting personal project applications.
 
 Hosted at http://potterverse-v2.herokuapp.com
 
